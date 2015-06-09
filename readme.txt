@@ -1,7 +1,7 @@
 ===Woocommerce Migs===
 Contributors: (iwcontribution)
-Tags: Woocommerce Migs
-Requires at least: 4.2.2
+Tags: Visa Mastercard Plugin, Payment Gateway, MasterCard Internet Gateway Service, MIGS, MIGS Payment Gateway Integration with WooCommerce
+Requires at least: 3.5.1
 Tested up to: 4.2.2
 MIGS allows securely payment using your Credit Card.
 ==Description==
