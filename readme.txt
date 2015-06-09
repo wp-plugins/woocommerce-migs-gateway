@@ -9,8 +9,8 @@ MIGS allows securely payment using your Credit Card.
 This is Woocommerce Migs Payment Gateway extension which helps to make payment securely using mastercards.
 
 == Installation ==
-1.Download the MIGS-WooCommerce Gateway plugin zip file and extract to the  `/wp-content/plugins/` directory.
-2.Activate the plugin through the 'Plugins' menu in WordPress Admin.
+1. Download the MIGS-WooCommerce Gateway plugin zip file and extract to the  `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress Admin.
 
 == Screenshots ==
 1. WooCommerce Backend Settings "Checkout" page.
